@@ -9,7 +9,7 @@ Smart Fits is a full-stack Java EE web application designed to help users manage
 * **Analytics Dashboard:** Interactive charts using Chart.js for workout trends[cite: 135].
 * **AI Integration:** Activity prediction using the WEKA Naive Bayes classifier[cite: 162].
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Frontend:** JSP, HTML5, CSS3, JavaScript, Chart.js.
 * **Backend:** Java EE (Servlets, JSP, JDBC), MVC Architecture[cite: 81].
 * **Database:** MySQL 8.
